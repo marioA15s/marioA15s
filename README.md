@@ -1,23 +1,26 @@
-<h1>Hi, there I'm Mario! <br/><a href="https://github.com/marioA15s">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, there I'm Mario! <br/><a href="https://github.com/marioA15s">Programmer</a>, <a href="https://www.linkedin.com/in/mario-arredondo-1b58561b7/">Cybersecurity SOC Enthusiast </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Cloud Projects (Data Collection)</b>
   - [Pracitece on Live SOC/Honeynet](https://github.com/marioA15s/Net-SOC)
 
-<h2>💡 Future Projects in the works</h2>
+<h2>💡 Future Projects Ideas </h2>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [JWipe (Disk Wiping Utility)]
   - [Active Directory Bulk User Creation](
   - [FIM (File Integrity Monitor)]
-- <b>C# (.NET Desktop Applications)</b>
+
+  - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)]
   - [Ransomware Proof of Concept (Decrypter)]
   - [Keylogger with Email Capability]
-- <b>Python</b>
+
+  - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
 
