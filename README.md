@@ -1,4 +1,4 @@
-<h1>Hi, there I'm Mario! <br/><a href="https://github.com/marioA15s">Remote IT Tech</a>, <a href="https://www.linkedin.com/in/mario-arredondo-1b58561b7/">Cybersecurity SOC Enthusiast </a>
+<h1>Hi, there I'm Mario! <br/><a href="https://github.com/marioA15s">Remote IT Support </a>, <a href="https://www.linkedin.com/in/mario-arredondo-1b58561b7/">Cybersecurity SOC Enthusiast </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
