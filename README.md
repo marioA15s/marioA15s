@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Cloud Projects (Data Collection)</b>
-  - [Pracitece on Live SOC/Honeynet](https://github.com/marioA15s/Net-SOC)
+  - [Practice on Live SOC/Honeynet](https://github.com/marioA15s/Net-SOC)
   - Bashscript Auto Backup customized with screenshots
 
 <h2>💡 Future Projects Ideas </h2>
