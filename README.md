@@ -12,15 +12,15 @@
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [Active Directory Bulk User Creation](
+  - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
 
-  - <b>C# (.NET Desktop Applications)</b>
+- <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)]
   - [Ransomware Proof of Concept (Decrypter)]
   - [Keylogger with Email Capability]
 
-  - <b>Python</b>
+- <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
 
