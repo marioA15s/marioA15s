@@ -4,7 +4,7 @@
 
 - <b>Azure Cloud Projects (Data Collection)</b>
   - [Practice on Live SOC/Honeynet](https://github.com/marioA15s/Net-SOC)
-  - Bashscript Auto Backup customized with screenshots
+  - [Bashscript Auto Backup customized with screenshots](https://github.com/marioA15s/Bashscript-Auto-Backup) 
 
 <h2>💡 Future Projects Ideas </h2>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
